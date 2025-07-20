@@ -79,5 +79,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Yuvraj Singh**
+**Yuvraj Gupta**
 [GitHub Profile](https://github.com/Yuvraj960)
